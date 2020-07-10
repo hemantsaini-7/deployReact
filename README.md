@@ -1,6 +1,6 @@
 ### `Helpful Commands`
 ## Deploying React App on Github Pages
-## Procedure
+### Procedure
 
 1- First create a repository named my-app using create-react-app.
 
